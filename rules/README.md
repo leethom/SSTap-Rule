@@ -32,6 +32,9 @@
   
 ## 更新日志  
 
+### 2019年1月13日
+
+新增 `Insurgency:Sandstorm` 平台规则 By @iivy
 ### 2019年1月9日  
 
 新增 `HITMAN2` 平台规则 By @youdeoo  
